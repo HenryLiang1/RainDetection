@@ -1,0 +1,6 @@
+﻿  RainDetection.cpp
+RainDetection.cpp(33): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+RainDetection.cpp(34): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  RainDetection.vcxproj -> C:\Users\A8859\Desktop\RainDetection\Release\RainDetection.exe
